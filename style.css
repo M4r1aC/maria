@@ -16,14 +16,12 @@ p{
     font-size:  25px; 
     text-align: center;
 }
-h1{
-    color: rgb(124, 23, 124);
-    font-family: ;
-    background-color: ;
 }
 .container{
     width: 20% ;
     margin: 0 auto;
     font-size: 30px;
+    color:green ;
+
 }
 
