@@ -21,4 +21,8 @@ h1{
     font-family: ;
     background-color: ;
 }
+.container{
+    width:10px ;
+    margin: 0 auto;
+}
 
