@@ -1,14 +1,14 @@
 body{
-    background-color: aqua;
+    background-color: plum;
 }
 h1{
-    color: black;
+    color: rgb(180,12,12);
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
 }
 p{
-    color: blueviolet;
+    color: rgb(86,20,148);
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
