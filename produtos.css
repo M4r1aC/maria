@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: blueviolet;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
